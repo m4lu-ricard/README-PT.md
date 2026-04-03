@@ -39,6 +39,10 @@
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-FF5722?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Bancos de Dados
 
@@ -59,9 +63,8 @@
 
 ## 📊 Estatísticas do GitHub
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=m4lu-ricard&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4lu-ricard&layout=compact&theme=tokyonight" />
+<p>
+  <img src="https://github-readme-stats-ten-nu-59.vercel.app/api/top-langs/?username=m4lu-ricard&layout=compact&langs_count=7&theme=dracula&exclude_repo=github-readme-stats&hide=javascript&cache_seconds=0&v=99"/>
 </p>
 
 ---
