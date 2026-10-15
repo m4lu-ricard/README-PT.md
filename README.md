@@ -1,4 +1,6 @@
-# Oi 👋, eu sou a Maria Ricardo
+🇺🇸 Leia em inglês: [README.md](https://github.com/m4lu-ricard/README.md)
+
+# Oi 👋, eu sou a Maria Luiza Ricardo
 
 💻 **Estudante de Engenharia de Software**  
 📍 Brasil 🇧🇷  
@@ -16,22 +18,23 @@
     <img src="https://img.shields.io/badge/Instagram-@m4lu_ricardo-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/maria-luiza-fernandes-a1637a302/">
-    <img src="https://img.shields.io/badge/LinkedIn-Maria%20Luiza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/LinkedIn-Maria%20Luiza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 </p>
 
 ---
 
 ## 🧠 O que eu faço
 
-- 💻 Estudante de Engenharia de Software  
-- 📚 Aprendendo e praticando C, Java e MySQL  
-- 🛠️ Desenvolvendo pequenos projetos para melhorar minhas habilidades em programação  
-- 🗄️ Estudando bancos de dados e conceitos básicos de backend  
-- 📊 Experiência com planilhas e organização de dados  
-- 🎯 Interesse em tecnologia, resolução de problemas e aprendizado contínuo  
-
+- 🎓 Estudante de Engenharia de Software na Universidade Católica de Brasília (UCB)  
+- 📚 Aprendendo e praticando Javascript, HTML, CSS e MySQL
+- 💻 Focada em **Desenvolvimento Web** (JavaScript, Node.js, HTML/CSS) e na criação de aplicações full-stack
+- 🛠️ Desenvolvendo pequenos projetos para aprimorar minhas habilidades de programação  
+- 📊 Estudando **Análise e Engenharia de Dados**, expandindo meus conhecimentos em bancos de dados e estruturação de dados   
+- 🎯 Apaixonada por tecnologia, aprendizado contínuo e criação de soluções eficientes
+  
 ---
+
 
 ## 🛠️ Tecnologias
 
@@ -58,23 +61,25 @@
 ### Metodologias
 
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge)
+---
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
-<p>
-  <img src="https://github-readme-stats-ten-nu-59.vercel.app/api/top-langs/?username=m4lu-ricard&layout=compact&langs_count=7&theme=dracula&exclude_repo=github-readme-stats&hide=javascript&cache_seconds=0&v=99"/>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=m4lu-ricard&show_icons=true&theme=radical" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4lu-ricard&layout=compact&langs_count=8&theme=radical&v=1" height="150" alt="Linguagens Mais Usadas" />
 </p>
 
 ---
 
 ## 🚀 Filosofia
 
-> _"Aprender a programar não é apenas resolver problemas.  
-> É crescer todos os dias e construir projetos com significado."_
+> _"Aprender a programar não é apenas sobre resolver problemas.  
+> É sobre crescer todos os dias e construir projetos significativos."_
 
 ---
-
+  
 ⭐ Obrigada por visitar meu perfil  
-🤝 Sempre aberta a aprender, colaborar e novas oportunidades  
+🤝 Sempre aberta a aprender, colaborações e novas oportunidades
